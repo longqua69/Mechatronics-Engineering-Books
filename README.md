@@ -1,2 +1,5 @@
 # Mechatronics-Engineering-Books
-This repository is used to store my Mechatronics Engineering Books. Many thanks for the authors.
+
+This repository is used for reviewing Mechatronics Books, sharing great book names.
+
+Hope it can contribute to the open-source communiy.
