@@ -7,4 +7,4 @@ Hope it can contribute to the open-source communiy.
 
 ## Mechanical Engineering Book:
 
-Shigley's Mechanical Engineering Design
+1. [Shigley's Mechanical Engineering Design](https://www.academia.edu/22020828/Shigleys_Mechanical_Engineering_Design_9th_Edition)
