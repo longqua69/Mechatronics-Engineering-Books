@@ -12,3 +12,7 @@ Hope it can contribute to the open-source communiy.
 ## Great Data Science Books:
 
 1. [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/)
+
+## Personal Development Books:
+
+1. [Deep Work](https://www.calnewport.com/books/deep-work/)
