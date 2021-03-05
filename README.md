@@ -16,3 +16,7 @@ Hope it can contribute to the open-source communiy.
 ## Personal Development Books:
 
 1. [Deep Work](https://www.calnewport.com/books/deep-work/)
+
+## Great Embedded Engineering Books:
+
+1. [Programming Embedded Systems With C and GNU development tools](https://www.amazon.com/Programming-Embedded-Systems-Development-Tools-ebook/dp/B0043M52KO)
