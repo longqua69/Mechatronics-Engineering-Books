@@ -28,3 +28,4 @@ Hope it can contribute to the open-source communiy.
 ## Programming Languages:
 
 1. [Algorithms in C++, Parts 1-4](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882)
+2. [Algorithms in C, Parts 1-4](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structures/dp/0201314525)
