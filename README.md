@@ -24,3 +24,7 @@ Hope it can contribute to the open-source communiy.
 ## LINUX:
 
 1. [Linux Bible](https://www.wiley.com/en-us/Linux+Bible%2C+10th+Edition-p-9781119578895)
+
+## Programming Languages:
+
+1. [Algorithms in C++, Parts 1-4](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882)
