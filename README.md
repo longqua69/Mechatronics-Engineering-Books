@@ -16,6 +16,7 @@ Hope it can contribute to the open-source communiy.
 ## Personal Development Books:
 
 1. [Deep Work](https://www.calnewport.com/books/deep-work/)
+2. [The 4 Disciplines of execution](https://resources.franklincovey.com/mkt-4dxv1/the-4-disciplines-of-execution)
 
 ## Great Embedded Engineering Books:
 
