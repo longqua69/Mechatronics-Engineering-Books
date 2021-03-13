@@ -30,3 +30,7 @@ Hope it can contribute to the open-source communiy.
 
 1. [Algorithms in C++, Parts 1-4](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882)
 2. [Algorithms in C, Parts 1-4](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structures/dp/0201314525)
+
+## Great Electronics Engineering Books:
+
+1. [Electronics Cookbook: Practical Electronic Recipes with Arduino and Raspberry Pi](https://www.amazon.com/Electronics-Cookbook-Practical-Electronic-Raspberry-ebook/dp/B06XYH65YR)
