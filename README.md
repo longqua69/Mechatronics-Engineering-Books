@@ -8,6 +8,7 @@ Hope it can contribute to the open-source communiy.
 ## Great Mechanical Engineering Books:
 
 1. [Shigley's Mechanical Engineering Design](https://www.academia.edu/22020828/Shigleys_Mechanical_Engineering_Design_9th_Edition)
+2. [Finite Element Analysis: Theory and Application with ANSYS](https://www.amazon.com/Finite-Element-Analysis-Theory-Application/dp/0133840808)
 
 ## Great Data Science Books:
 
