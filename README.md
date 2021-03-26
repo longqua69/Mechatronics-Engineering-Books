@@ -20,6 +20,7 @@ Hope it can contribute to the open-source communiy.
 2. [The 4 Disciplines of execution](https://www.amazon.com/gp/product/1451627068/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451627068&linkCode=as2&tag=produgame0d-20&linkId=35b2fe209ace4870a80c09ab6fa1c59a)
 3. [The Uses of Argument](https://www.cambridge.org/core/books/uses-of-argument/26CF801BC12004587B66778297D5567C)
 4. [The first 20 hours](https://first20hours.com/)
+5. [THE PERSONAL MBA](https://personalmba.com/)
 
 ## Great Embedded Engineering Books:
 
