@@ -13,6 +13,7 @@ Hope it can contribute to the open-source communiy.
 ## Great Data Science Books:
 
 1. [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/)
+2. [Data Science from Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)
 
 ## Personal Development Books:
 
