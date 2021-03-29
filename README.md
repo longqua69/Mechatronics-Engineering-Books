@@ -14,6 +14,7 @@ Hope it can contribute to the open-source communiy.
 
 1. [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/)
 2. [Data Science from Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)
+3. [Head First Statistics](https://www.amazon.in/First-Statistics-Brain-Friendly-Guide/dp/0596527586#:~:text=Head%20First%20Statistics%20is%20ideal,Placement%20(AP)%20Statistics%20Exam.&text=Explore%20real%2Dworld%20scenarios%2C%20ranging,bring%20statistical%20principles%20to%20life)
 
 ## Personal Development Books:
 
