@@ -27,6 +27,7 @@ Hope it can contribute to the open-source communiy.
 ## Great Embedded Engineering Books:
 
 1. [Programming Embedded Systems With C and GNU development tools](https://www.amazon.com/Programming-Embedded-Systems-Development-Tools-ebook/dp/B0043M52KO)
+2. [Building Embedded Linux Systems](http://www.inf.furb.br/~maw/uclinux/O'reilly%20Building%20Embedded%20Linux%20Systems.pdf)
 
 ## LINUX:
 
