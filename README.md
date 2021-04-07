@@ -47,3 +47,7 @@ Hope it can contribute to the open-source communiy.
 
 1. [Computer Vision:
 Algorithms and Applications](https://books.google.com.vn/books?hl=vi&lr=&id=bXzAlkODwa8C&oi=fnd&pg=PR4&dq=Computer+Vision:+Algorithms+and+Applications+by+Richard+Szeliski+and+look+for+the+papers+referenced+there.&ots=g-Y7cYnFHB&sig=ulC1S6E4G-cQqXF7q8HIcwpRFq8&redir_esc=y#v=onepage&q=Computer%20Vision%3A%20Algorithms%20and%20Applications%20by%20Richard%20Szeliski%20and%20look%20for%20the%20papers%20referenced%20there.&f=false)
+
+## Great VLSI/LSI Verification Books
+
+1. [System Verilog Assertions and Functional Coverage](https://www.springer.com/gp/book/9783030247362)
