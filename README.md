@@ -38,6 +38,7 @@ Hope it can contribute to the open-source communiy.
 
 1. [Algorithms in C++, Parts 1-4](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882)
 2. [Algorithms in C, Parts 1-4](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structures/dp/0201314525)
+3. [Excel VBA Programming for Dummies](https://michaelaustinfu.files.wordpress.com/2013/03/excel-vba-for-dummies-3rd-edition.pdf)
 
 ## Great Electronics Engineering Books:
 
